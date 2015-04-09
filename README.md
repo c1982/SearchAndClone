@@ -1,0 +1,1 @@
+WebSitePanel vhosts dizinindeki domain'i bulur ve MaestroPanel'in vhost dizini altýna kopyalar.
